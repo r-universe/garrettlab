@@ -4,5 +4,5 @@
 	branch = HEAD
 [submodule "geohabnet"]
 	path = geohabnet
-	url = https://github.com/garrettlab/croplandconnectivity
+	url = https://github.com/garrettlab/habitatconnectivity
 	subdir = geohabnet
